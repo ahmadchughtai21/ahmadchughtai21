@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadchughtai21
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 📫 You can reach me through: https://linktr.ee/ahmadchughtai
 
 <!---
