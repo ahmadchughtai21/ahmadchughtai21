@@ -40,22 +40,23 @@ I engineer intelligent, scalable web applications, bridging the gap between adva
 
 ### 🚀 Featured Projects & Ecosystem
 
+#### 🧠 [Whiteboard](https://whiteboard.ahmadchughtai.me) — AI Student Assistant
+An upcoming, specialized educational platform built to supercharge learning efficiency and study workflows.
+* **Stack:** Django, React, Tailwind CSS, Gemini Multimodal API.
+
 #### 📝 [Tack](https://tack.ahmadchughtai.me) — AI Todo Manager
 An intelligent task management platform engineered to interpret context and complex user intent.
 * **Stack:** Django REST Framework, React, Tailwind CSS, LLM API Integration.
 * **Features:** Parses raw, unstructured natural language inputs into clean, categorized, and actionable schedules dynamically.
 
+#### 🌐 [Portfolio](https://ahmadchughtai.me) — Engineering Hub & Personal RAG
+My digital headquarters, incorporating an intelligent, self-hosted Retrieval-Augmented Generation system.
+* **Features:** Built to allow users and recruiters to converse directly with an AI contextually trained on my portfolio, engineering history, and technical documentation.
+
 #### 🎬 [Madflix](https://madflix.ahmadchughtai.me) — Movie Streaming Platform
 A highly responsive, content-rich media web application designed for smooth video streaming and optimal UI/UX.
 * **Stack:** Full-Stack Architecture optimized for dynamic content delivery, minimal playback latency, and seamless media discovery.
 
-#### 🧠 [Whiteboard](https://whiteboard.ahmadchughtai.me) — AI Student Assistant `[In Development]`
-An upcoming, specialized educational platform built to supercharge learning efficiency and study workflows.
-* **Stack:** Django, React, Tailwind CSS, Gemini Multimodal API.
-
-#### 🌐 [Portfolio](https://ahmadchughtai.me) — Engineering Hub & Personal RAG `[In Development]`
-My digital headquarters, incorporating an intelligent, self-hosted Retrieval-Augmented Generation system.
-* **Features:** Built to allow users and recruiters to converse directly with an AI contextually trained on my portfolio, engineering history, and technical documentation.
 
 ---
 
